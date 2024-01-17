@@ -2,6 +2,8 @@
 
 **Word Search in 2D Array using Binary Search Tree**
 
+Binary Search Tree is a special type of tree that can have atmost 2 children.
+
 **Approach:**
 This C++ program employs a tree structure to search for words in a dynamically defined 2D array. The `Tree` class is designed to organize the array into a tree, making it easier to search in various directions (horizontal, vertical, diagonal). The program reads words from a file (`words.txt`) and searches for them in the array, outputting results to `output.txt`.
 
